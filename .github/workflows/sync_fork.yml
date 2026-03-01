@@ -1,4 +1,4 @@
-name: Fork Sync
+name: Fork Sync 
 
 permissions:
     contents: write
